@@ -1,0 +1,145 @@
+body {
+ 	font-size: 12px;
+ 	font-family: verdana, arial, helvetica;
+ 	background-color: #FFFFFF;
+	text-align: justify;
+}
+
+
+img {
+	border:none;
+	margin:0px;
+	padding:0px;
+}
+
+
+h1 {
+	font-size: 20px;
+	font-weight: normal;
+	padding: 0px;
+	margin-top: 24px;
+	margin-bottom: 18px;
+}
+
+
+h2 {
+	font-size: 14px;
+	font-weight: normal;
+	padding: 0px;
+	margin-top: 18px;
+	margin-bottom: 12px;
+}
+
+
+h3 {
+	font-size: 12px;
+	font-weight: normal;
+	padding: 0px;
+	margin-top: 12px;
+	margin-bottom: 12px;
+}
+
+
+td {
+	font-size: 12px;
+}
+
+
+a {
+    margin:0px;
+	padding:0px;
+	color: #0066CC;
+	text-decoration: underline;
+}
+
+a:hover {
+    margin:0px;
+	padding:0px;
+	color: #0066CC;
+	text-decoration: none;
+}
+
+hr {
+	color: #003366;
+	height: 1px;
+}
+
+hr.green {
+	color:#006633;
+	heigth:1px;
+}
+
+hr.red {
+	color:red;
+	heigth:1px;
+}
+
+p {
+    font-size: 12px;
+    padding: 0px;
+    margin:0px;
+    margin-bottom:10px;
+}
+
+
+input {
+    font-size: 12px;
+ 	font-family: verdana, arial, helvetica;
+}
+
+
+select {
+    font-size: 12px;
+ 	font-family: verdana, arial, helvetica;
+}
+
+
+li {
+    font-size: 12px;
+	margin-bottom:10px;
+}
+
+legend {
+	color: #006633; 
+	font-weight: bold;
+	font-size: 18px;
+}
+
+h2.alarm {
+	color: red;
+	margin:0px;
+}
+
+fieldset {
+    /*-moz-border-radius: 8px; border-radius: px;*/
+}
+/*------------ LABS -------------  */
+
+
+div.info {
+    text-align: justify;
+	margin:6px;
+	padding:0px;
+}
+
+.labs_label {
+	margin-bottom:2px;
+	padding:0;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.small {
+    text-align: justify;
+	margin:0px;
+	padding:0px;
+	font-size: 10px;
+}
+
+h1.labs {
+	margin:0;
+	padding:0;
+	font-size: 14px;
+	color: #0066CC;
+}
+

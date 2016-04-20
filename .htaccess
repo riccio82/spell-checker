@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^about-labs.php$ index.php?l=fr#about [NE]
